@@ -1,0 +1,1 @@
+cat demo-ascii.cast | svg-term --from=1780 --to=24000 --out demo.svg
